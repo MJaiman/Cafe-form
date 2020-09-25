@@ -25,9 +25,6 @@ body{
 }
 .card-img{
     background: url("card-img.jpg") center/cover no-repeat;
-    height: 100%;
-    width: 100%;
-  
 }
 .banner h2{
     padding-bottom: 20px;
