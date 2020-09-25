@@ -24,10 +24,7 @@ body{
     grid-template-columns: 420px 420px;
 }
 .card-img{
-    background-image: url("card-img.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+    background: url("card-img.jpg") center/cover no-repeat;
     height: 100%;
     width: 100%;
   
