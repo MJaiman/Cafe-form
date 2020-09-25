@@ -24,7 +24,7 @@ body{
     grid-template-columns: 420px 420px;
 }
 .card-img{
-    background-image: url("css/card-img.jpg");
+    background-image: url("card-img.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -167,7 +167,7 @@ form input[type = submit]:hover{
     }
     .banner {
         height: 101vh;
-        background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(css/banner-img.jpg) center/cover no-repeat;
+        background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(banner-img.jpg) center/cover no-repeat;
         display: flex;
         flex-direction: column;
         justify-content: center;
